@@ -1,0 +1,101 @@
+Id,Date,Stream,Build Number,Status,Duration,Initiator,Binning,Failure Domain
+1,2023-01-20,Stream 2,23,Success,3960.39,Kevin Owens,Binning 5,DART
+2,2022-08-01,Stream 1,56,Success,3602.88,Gregory Prince,Binning 1,Algo
+3,2021-06-19,Stream 1,65,Failure,3916.5,Amanda Ward,Binning 5,Cougar
+4,2023-11-30,Stream 4,69,Success,3626.0,David Burgess,Binning 4,Cougar
+5,2023-12-26,Stream 3,97,Success,3971.39,Betty Patterson,Binning 5,DGS
+6,2021-10-13,Stream 3,79,Success,3973.19,Justin White,Binning 3,DART
+7,2022-06-20,Stream 2,71,Success,3719.37,John Smith,Binning 1,DART
+8,2023-01-17,Stream 3,81,Success,3625.96,Evan Castillo,Binning 5,Algo
+9,2022-11-29,Stream 1,93,Failure,3752.55,Jose Johnson,Binning 2,IMC
+10,2022-01-28,Stream 3,75,Success,3766.77,Jennifer Rivera,Binning 1,Algo
+11,2021-03-15,Stream 2,60,Failure,3820.84,Adrienne Evans,Binning 3,IMC
+12,2022-11-21,Stream 3,96,Success,3946.47,Michael Brooks,Binning 1,DART
+13,2022-03-19,Stream 1,92,Success,3617.64,Aaron Simmons Jr.,Binning 1,Cougar
+14,2021-07-22,Stream 2,51,Failure,3937.32,Brent Gallegos,Binning 2,IMC
+15,2023-12-17,Stream 2,92,Failure,3969.21,Jeremy Davis,Binning 3,DART
+16,2022-12-07,Stream 3,23,Failure,3891.42,Maria Lowe,Binning 2,DART
+17,2022-03-24,Stream 3,64,Failure,3821.93,Hannah Jones,Binning 3,Cougar
+18,2021-04-10,Stream 2,47,Success,3690.09,Natalie Roberts,Binning 2,DGS
+19,2023-03-18,Stream 2,68,Success,3805.76,Mary Murray,Binning 3,Cougar
+20,2022-08-08,Stream 3,57,Success,3905.39,Kathleen Valdez,Binning 2,IMC
+21,2023-06-12,Stream 3,90,Failure,3760.06,William Daniel,Binning 1,Cougar
+22,2021-11-14,Stream 5,77,Success,3728.83,Lindsey Ramirez,Binning 5,DART
+23,2023-01-03,Stream 3,9,Failure,3986.41,Robin Caldwell,Binning 4,Main UI
+24,2022-12-31,Stream 4,13,Success,3869.71,Kathleen Romero,Binning 2,Main UI
+25,2021-04-15,Stream 3,34,Failure,3897.29,Benjamin Stewart,Binning 3,Cougar
+26,2023-07-14,Stream 4,34,Failure,3754.89,Cheryl Mullins,Binning 3,DGS
+27,2021-08-10,Stream 2,52,Failure,3775.88,Jonathan Williams,Binning 4,Main UI
+28,2022-07-12,Stream 2,57,Failure,3918.86,Stephanie Bennett,Binning 1,Algo
+29,2023-10-14,Stream 4,14,Failure,3981.27,Tracey Hansen,Binning 2,Algo
+30,2023-04-23,Stream 5,23,Success,3772.64,Charles Duffy,Binning 3,IMC
+31,2023-04-02,Stream 3,53,Failure,3719.03,Lucas Green,Binning 3,Algo
+32,2023-08-31,Stream 4,76,Success,3685.85,Scott Mitchell,Binning 5,Main UI
+33,2022-01-13,Stream 5,30,Failure,3630.26,Laura Pierce,Binning 5,Cougar
+34,2021-09-14,Stream 4,3,Failure,3924.69,Hailey Rogers,Binning 2,Cougar
+35,2021-12-20,Stream 2,29,Success,3854.09,Ryan Sanders,Binning 1,Main UI
+36,2021-08-28,Stream 5,45,Failure,3987.27,Derek Wallace,Binning 2,DART
+37,2021-10-18,Stream 3,14,Failure,3612.41,David Stewart,Binning 3,Main UI
+38,2022-10-08,Stream 5,53,Failure,3678.84,Johnathan Le,Binning 5,IMC
+39,2023-04-25,Stream 2,26,Failure,3873.33,Angela Anderson,Binning 2,IMC
+40,2022-03-23,Stream 4,7,Failure,3698.11,Jessica Smith,Binning 4,DART
+41,2023-08-05,Stream 2,49,Success,3789.71,Jason Walsh,Binning 3,DGS
+42,2022-06-15,Stream 3,55,Failure,3904.22,Adrian King Jr.,Binning 2,Algo
+43,2022-07-24,Stream 5,47,Success,3959.59,Julie Smith,Binning 4,IMC
+44,2023-03-31,Stream 1,72,Failure,3690.38,Kevin Hays,Binning 4,Algo
+45,2021-09-29,Stream 1,13,Failure,3902.41,Ricardo Gonzalez,Binning 3,Main UI
+46,2023-10-05,Stream 5,18,Success,3999.82,Michael Weaver,Binning 1,IMC
+47,2023-03-14,Stream 5,29,Failure,3619.84,Adam Olson,Binning 1,Cougar
+48,2023-12-22,Stream 4,21,Success,3619.46,Susan Phelps,Binning 1,DART
+49,2021-10-18,Stream 2,41,Success,3923.84,Timothy Rangel,Binning 1,Main UI
+50,2021-12-02,Stream 1,9,Success,3695.1,Susan Rogers,Binning 3,Algo
+51,2022-02-15,Stream 1,74,Success,3643.72,Dr. Brittany Hartman,Binning 5,Algo
+52,2022-09-02,Stream 3,61,Success,3631.11,Glenn Sanchez,Binning 4,Algo
+53,2021-06-04,Stream 2,58,Failure,3977.39,Deborah Roberts,Binning 5,Algo
+54,2023-09-17,Stream 4,26,Success,3743.65,Amber Greene,Binning 2,DGS
+55,2021-08-22,Stream 1,23,Failure,3735.65,Mark Pittman,Binning 4,Cougar
+56,2023-06-25,Stream 3,92,Failure,3780.88,Janet Garza,Binning 3,Cougar
+57,2023-01-28,Stream 1,58,Success,3912.1,Leah Alexander,Binning 1,IMC
+58,2022-01-27,Stream 5,93,Success,3974.36,William Lowe,Binning 3,Algo
+59,2021-07-15,Stream 4,12,Failure,3915.07,Joan Garcia,Binning 1,DGS
+60,2023-01-26,Stream 1,8,Failure,3606.52,Eric Calhoun,Binning 1,Main UI
+61,2022-02-17,Stream 2,20,Success,3724.72,Lindsay Moore DDS,Binning 2,Cougar
+62,2023-05-16,Stream 1,52,Success,3673.64,Susan Giles,Binning 5,Main UI
+63,2021-08-05,Stream 4,21,Success,3725.01,Kirk Williams,Binning 2,Cougar
+64,2022-10-26,Stream 5,45,Success,3932.2,Andrew Guzman,Binning 3,DGS
+65,2021-12-31,Stream 1,75,Success,3841.15,Jennifer Jones,Binning 5,Algo
+66,2021-11-18,Stream 3,67,Success,3899.96,Tony Collins,Binning 4,DART
+67,2023-12-08,Stream 3,65,Success,3778.21,Jenna Martinez,Binning 1,Cougar
+68,2022-09-10,Stream 1,73,Failure,3913.59,Theodore Gonzalez,Binning 2,DART
+69,2022-09-29,Stream 2,33,Failure,3967.31,Brett Martinez,Binning 1,Algo
+70,2023-07-05,Stream 5,85,Success,3682.88,David Hoover,Binning 1,DART
+71,2021-06-06,Stream 2,3,Success,3991.49,David Thomas,Binning 5,Main UI
+72,2023-08-29,Stream 2,67,Failure,3738.98,Kimberly Russo,Binning 5,Main UI
+73,2021-12-13,Stream 3,60,Success,3768.74,Ernest Martin,Binning 5,IMC
+74,2022-02-26,Stream 2,94,Failure,3643.23,Ashley Lopez,Binning 4,DART
+75,2023-04-03,Stream 5,6,Failure,3703.73,Lauren Benitez,Binning 2,DGS
+76,2023-01-12,Stream 3,72,Failure,3630.39,Barbara Conrad,Binning 5,DGS
+77,2022-08-05,Stream 5,20,Success,3732.88,Laura Green,Binning 5,Algo
+78,2022-05-30,Stream 3,72,Success,3821.12,Rebecca Snow,Binning 3,IMC
+79,2021-01-04,Stream 3,31,Success,3856.34,Tiffany Hoffman,Binning 1,Main UI
+80,2023-04-07,Stream 5,80,Failure,3721.53,Rose Watson,Binning 5,Cougar
+81,2023-01-12,Stream 2,1,Failure,3651.17,Katherine Vazquez,Binning 5,Main UI
+82,2021-08-03,Stream 5,64,Failure,3699.84,Terry Nielsen,Binning 1,IMC
+83,2022-01-30,Stream 4,42,Failure,3919.11,Ian Hughes,Binning 1,IMC
+84,2021-09-28,Stream 3,35,Success,3681.63,Scott Smith,Binning 1,DART
+85,2022-05-04,Stream 2,44,Success,3854.25,Joseph Hamilton,Binning 2,IMC
+86,2022-10-11,Stream 5,84,Failure,3774.32,Nicole Parker,Binning 4,Main UI
+87,2021-08-09,Stream 4,41,Failure,3682.07,Erik Beck,Binning 2,DART
+88,2023-05-27,Stream 4,42,Failure,3847.76,Janet Scott,Binning 5,Cougar
+89,2021-04-14,Stream 3,3,Failure,3833.03,Kelly Elliott,Binning 2,IMC
+90,2022-09-03,Stream 5,65,Failure,3736.08,Kelly Richmond,Binning 1,DGS
+91,2021-12-27,Stream 4,8,Success,3678.24,Charles Moore,Binning 1,Algo
+92,2023-09-10,Stream 2,68,Success,3975.78,Lori Burke,Binning 3,Algo
+93,2023-02-15,Stream 3,59,Failure,3776.92,Daniel Chase,Binning 2,Main UI
+94,2023-04-04,Stream 3,79,Success,3709.2,Kelly Livingston,Binning 3,Algo
+95,2022-05-25,Stream 3,37,Failure,3606.58,Joseph Mcintyre,Binning 4,DGS
+96,2021-09-30,Stream 1,89,Failure,3686.29,Gregory Robinson,Binning 5,Cougar
+97,2022-07-30,Stream 3,58,Success,3963.64,Rodney Burnett,Binning 5,DGS
+98,2023-04-26,Stream 1,12,Failure,3965.88,April Mckenzie,Binning 3,Cougar
+99,2021-08-14,Stream 5,45,Success,3828.95,Michael Charles,Binning 1,Cougar
+100,2022-07-29,Stream 5,77,Failure,3933.03,Cindy Reynolds,Binning 4,Main UI
